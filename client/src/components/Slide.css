@@ -1,0 +1,39 @@
+.slide-container{
+    padding-top: 200;
+    width: 700;
+    margin: auto;
+}
+
+.slide-container Images{
+    min-width: 100%;
+    min-height: 100%;
+}
+.separator {
+	width: 100% ;
+	height: 3px;
+	width: 100%;
+	border: none;
+	box-shadow: none;
+	background-color: #3498DB;
+
+}
+
+.about .container h1{
+    text-align: center;
+    color: cyan;
+}
+
+.container-fluid .about{
+	text-align: justify;
+	padding-top: 5%;
+}
+
+.container-fluid .about article{
+	margin-top: 5%;
+}
+
+.container-fluid .about article h2{
+	text-align: center;
+}
+
+ 
